@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+span{
+    background-color: gold;
+}
+.hope{
+    background-color: blue;
+}
+#notbad{
+    background-color: darkorchid;
+}
+#keep{
+    background-color: blue;border: 2px solid red;
+}
